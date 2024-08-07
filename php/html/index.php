@@ -1,5 +1,5 @@
 <?php
-include('src/functions.php');
+include('../src/functions.php');
 
 for($i = 0; $i< 50; $I++) {
     $users[] = createUser();
